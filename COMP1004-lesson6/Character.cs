@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+/**
+ * Name: Jeremiah Hughes
+ * Date: October 13, 2016
+ * StudentID: 200318676
+ */
+
 namespace COMP1004_lesson6
 {
     public class Character
